@@ -15,6 +15,7 @@ public class Student
     private int id;
     private int age;
     private int semesterNum;
+    private int num;
     //getters /setters
 
     /**
