@@ -14,6 +14,7 @@ public class Student
     private String name; //pinciple Encapuslation
     private int id;
     private int age;
+    private int semesterNum;
     //getters /setters
 
     /**
